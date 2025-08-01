@@ -1,0 +1,9 @@
+Host our site on git
+    Create a new public repository on git
+    copy the ssh link.
+    git init
+        In the desired repository
+    git remote add origin https://github.com/atm2117/js-template.git
+    git add .
+    git commit -m 'Initial commit'
+    git push origin master
