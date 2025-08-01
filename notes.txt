@@ -7,3 +7,6 @@ Host our site on git
     git add .
     git commit -m 'Initial commit'
     git push origin master
+    settings -> Git hub pages
+        Update the source branch to 'master'
+        Refresh the page couple of times and there should be a link in the Git hub page section
